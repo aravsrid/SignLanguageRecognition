@@ -1,9 +1,9 @@
 # SignLanguageRecognition
 Sign Language Recognition for Human-Robot Interaction
 
-We designed a system to enhance human-robot interactions by incorporating sign language recognition
+I designed a system to enhance human-robot interactions by incorporating sign language recognition
 
-Using Python, OpenCV, Media Pipehands, and Scikit Learn we developed a computer vision-based solution to detect and recognize American Sign Language (ASL) letters in real-time.
+Using Python, OpenCV, Media Pipehands, and Scikit Learn I developed a computer vision-based solution to detect and recognize American Sign Language (ASL) letters in real-time.
 
 Link to presentation: https://docs.google.com/presentation/d/1N6Qa7o8Hf04ouofBbwNRdnQuWD1hvEgs7q47kPYn7tA/edit?usp=sharing
 
